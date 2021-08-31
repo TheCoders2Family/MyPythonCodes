@@ -5,7 +5,7 @@ root.geometry("944x855")
 
 # Making frame
 
-f1=Frame(root,bg="green",borderwidth=6,relief="sunken")
+f1=Frame(root,bg="black",borderwidth=6,relief="sunken")
 f1.pack(fill="both")
 
 # Making the funtion for output
